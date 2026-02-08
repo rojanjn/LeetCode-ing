@@ -8,11 +8,7 @@ This repository contains my solutions to various LeetCode problems, organized fo
 
 ## Structure
 
-Solutions are organized by problem difficulty and topic.
-
-## Usage
-
-Browse through the repository to find solutions to specific problems. Each solution includes the problem description and implementation.
+Solutions are organized by topic.
 
 ## Contributing
 
