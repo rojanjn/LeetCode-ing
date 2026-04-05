@@ -4,7 +4,7 @@ This repository contains my solutions to various LeetCode problems, organized fo
 ---
 
 ## Structure
-Solutions are organized by topic.
+Solutions are organized by topic (at least I try to!).
 
 ---
 
